@@ -1,0 +1,31 @@
+.alert{
+	padding: 10px;
+	color: #fff;
+	border-radius: 2px;
+	margin-bottom: 20px;
+	margin-top: 10px;
+	font-size: 15px;
+	text-align: center;
+	font-style: bold;
+	border-radius: 5px;
+}
+.alert.error{
+	background: #F95849;
+	padding: 10px;
+	
+	color: #fff;
+}
+
+.alert.success{
+	background: #4CAF50;
+	padding: 10px;
+}
+
+
+.colorear { 
+background-image: linear-gradient(
+      rgba(0, 0, 0, 0.7), 
+      rgba(0, 0, 0, 0.7)
+    );
+}
+
